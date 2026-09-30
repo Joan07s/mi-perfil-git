@@ -2,3 +2,6 @@
 
 ## ¿Por qué me interesa?
 Porque Docker permite empaquetar aplicaciones y ejecutarlas en cualquier entorno de forma consistente.
+
+## ¿Qué necesito aprender primero?
+Fundamentos de Linux, redes y cómo funcionan los contenedores.
